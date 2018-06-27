@@ -10,4 +10,4 @@ Sorry, It's experimental and WIP.
 
 UI Design based on Cesar Oliveira's [pen](https://codepen.io/cesarolvr/pen/XqYKzB).
 
-![UI](./assets/ui-creditCard-form.png)
+![UI](./assets/ui-creditCard-form.png?raw=true)
